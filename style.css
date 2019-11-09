@@ -819,8 +819,8 @@ footer img {
 	    padding: 110px 0px 105px 20px;
 	}
 	#available .container > img {
-	    height: max-content;
-	    width: 45%;
+	    height: auto;
+	    width: 40%;
 	    padding-right: 5px;
 	}
 	#available .container h2 {
@@ -830,7 +830,7 @@ footer img {
 	#available .container div {
 		margin-top: 40px;
 		padding-left: 35px;
-    	margin-right: 31px;
+    	margin-right: 20px;
 	}
 	#available .container div p {
 		margin-top: 8px;
@@ -866,7 +866,7 @@ footer img {
 
 	/* get-in-touch */
 	#get-in-touch h2 {
-	    font-size: 35px;
+	    font-size: 33px;
 	}
 	#get-in-touch p {
 		font-size: 16px;
@@ -882,15 +882,15 @@ footer img {
 
 	/* footer */
 	footer .container p {
-	    font-size: 16px;
+	    font-size: 15px;
 	}
 	footer .container ul li {
-	    margin-right: 12px;
-	    margin-left: 12px;
+	    margin-right: 8px;
+	    margin-left: 8px;
 	}
 	footer .container ul li:first-child {
-		margin-left: 6px;
-    	margin-right: 8px;
+		margin-left: 8px;
+    	margin-right: 10px;
 	}
 	footer img {
 	    transform: translate(0, 36%);
@@ -937,7 +937,7 @@ footer img {
 	#stable {
 		padding-top: 30px;
 		padding-bottom: 15px;
-	}
+	}x
 
 	/* everthing */
 	#everything .container {
