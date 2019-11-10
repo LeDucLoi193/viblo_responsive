@@ -816,7 +816,7 @@ footer img {
 
 	/* available */
 	#available .container {
-	    padding: 110px 0px 105px 20px;
+	    padding: 110px 0px 105px 15px;
 	}
 	#available .container > img {
 	    height: auto;
@@ -828,9 +828,10 @@ footer img {
 	    line-height: 45px;
 	}
 	#available .container div {
-		margin-top: 40px;
-		padding-left: 35px;
-    	margin-right: 5px;
+		margin-top: 30px;
+		/*padding-left: 35px;*/
+		padding-left: 22px;
+    	margin-right: 35px;
 	}
 	#available .container div p {
 		margin-top: 8px;
